@@ -1,0 +1,15 @@
+.block{
+border: 1px black;
+height: 70px;
+width: 70px;
+
+}
+
+.wrapper{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.wrapper h2{
+    width: 100px;
+}
